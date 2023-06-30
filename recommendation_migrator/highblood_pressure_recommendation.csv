@@ -1,0 +1,10 @@
+Scenario,MinBloodPressure,MaxBloodPressure,Recommendations
+'',120,139,'Headache'
+'',120,139,'Dizziness'
+'',120,139,'Blurred vision'
+'After Meal',140,999,'Reduce your salt intake'
+'Feeling Weak',140,999,'Exercise regularly'
+'Feeling Weak',140,999,'Get to and stay at a healthy weight'
+'Feeling Weak',140,999,'Monitor your blood pressure'
+'Has vices',140,999,'Avoid excessive alcohol intake'
+'Has vices',140,999,'Stop smoking and avoid exposure to secondhand smoke'

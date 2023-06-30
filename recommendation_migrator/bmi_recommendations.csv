@@ -1,0 +1,67 @@
+MinBMI,MaxBMI,Classification,Recommendations
+1,18.4,'Low',"'Consult your doctor in developing a treatment plan; adding high-protein snacks to your diet; trying smoothies and shakes with high-calorie, nutritious ingredients'"
+1,18.4,'Low','Eat or drink 15 grams of carbohydrates and wait for 15 minutes to check your blood sugar'
+1,18.4,'Normal','Focus on your calorie intake in a healthy way'
+1,18.4,'Normal',"'Eat more nutrient-dense foods such as lean proteins, whole grains, fruits, and vegetables.'"
+1,18.4,'Normal','Engage in regular physical activities.'
+1,18.4,'Normal','Consult a registered dietitian to develop a personalized plan to achieve healthy weight'
+1,18.4,'Normal','Maintain a balanced diet and exercise routine'
+1,18.4,'High','Reduce sugar intake'
+1,18.4,'High','Exercise more'
+1,18.4,'High','Drink water'
+1,18.4,'High','Consult a doctor'
+1,18.4,'High','Develop a healthy eating plan that provides enough calories and nutrients to support your health'
+18.5,24.9,'Low','Eat or drink 15 grams of carbohydrates and wait for 15 minutes to check your blood sugar'
+18.5,24.9,'Low','Maintain a healthy diet'
+18.5,24.9,'Low','Develop exercise plan'
+18.5,24.9,'Normal',"'A diet that includes carbohydrates from fruits, vegetables, whole grains, legumes, and low-fat milk is encouraged. People with diabetes are advised to avoid sugar-sweetened beverages (including fruit juice).'"
+18.5,24.9,'Normal',"'Maintain regular exercise If you have been inactive or you are trying a new activity, start slowly, with 5 to 10 minutes a day. Then add a little more time each week. Increase daily activity by spending less time in front of a TV or other screen.'"
+18.5,24.9,'Normal','Maintain a healthy diet and avoid too much sugar and saturated fat'
+18.5,24.9,'Normal','Maintain a healthy lifestyle'
+18.5,24.9,'Normal','Maintain a healthy weight and muscle mass'
+18.5,24.9,'Normal','Eat a healthy diet'
+18.5,24.9,'Normal','Exercise regularly'
+18.5,24.9,'Normal','Monitor blood sugar level regularly'
+18.5,24.9,'Normal','Get regular check-ups'
+18.5,24.9,'High','Regularly monitor your blood sugar level'
+18.5,24.9,'High','Drink plenty of water'
+18.5,24.9,'High','Try relaxation techniques'
+18.5,24.9,'High','Exercise more; check ketone levels first; do not exercise if elevated'
+25,29.9,'Low',"'Consult a doctor regarding to your blood sugar, diet, and physical activity intake.'"
+25,29.9,'Low','Exercise daily'
+25,29.9,'Low','Monitor blood sugar regularly'
+25,29.9,'Low','Maintain a healthy weight through balanced diet'
+25,29.9,'Normal','Maintain a healthy lifestyle'
+25,29.9,'Normal','Exercise regularly'
+25,29.9,'Normal','Have a healthy diet'
+25,29.9,'Normal','Monitor blood sugar levels regularly'
+25,29.9,'Normal','Consult a doctor for personalized advice and guidance'
+25,29.9,'Normal',"'Avoiding weight gain - Some treatments for type 2 diabetes, such as intensive insulin therapy and certain oral medications, can contribute to weight gain. The following tips can help you avoid unwanted weight gain:'"
+25,29.9,'Normal',"'Weigh yourself on a regular basis (eg, every morning). If you gain more than 2 to 3 pounds in a week, try decreasing the number of calories you eat or increasing the amount of physical activity you do. Do not wait until you have gained a larger amount of weight, as this will make it harder to lose.'"
+25,29.9,'Normal',"'As your blood sugar control improves with treatment, it may be necessary to somewhat decrease your daily calorie intake to avoid weight gain.'"
+25,29.9,'Normal',"'If your blood sugar levels are frequently low at a particular time of day, your provider might suggest decreasing your dose of insulin or other medication rather than adding a snack at that time.'"
+25,29.9,'High',"'Muscle cells have more insulin receptors than fat cells, so an individual can decrease insulin resistance by exercising. Being more active also lowers blood sugar levels by helping insulin to be more effective.'"
+25,29.9,'High','Exercise regularly'
+25,29.9,'High','Drink more water'
+25,29.9,'High','Take insulin if prescribed by your doctor'
+25,29.9,'High','Eat a high-fiber diet with lots of vegetables'
+25,29.9,'High','Manage your weight and blood sugar'
+30,99.9,'Low','Eat or drink 15 grams of carbohydrates and wait for 15 minutes to check your blood sugar'
+30,99.9,'Low','Maintain a healthy weight'
+30,99.9,'Low','Consult to a doctor or dietitian to set the right diet and exercise goals for you'
+30,99.9,'Low','Track your blood sugar and BMI'
+30,99.9,'Normal','Eating a balanced diet'
+30,99.9,'Normal','Exercise regularly'
+30,99.9,'Normal','Get enough sleep'
+30,99.9,'Normal','Monitor your blood sugar levels regularly'
+30,99.9,'Normal',"'Weight-loss occurs when energy expenditure exceeds energy intake. Creating a calorie deficit will result in weight-loss. Writing down the food, portion size and calorie amount in a food diary will help you become aware of the foods you consume and provide objective evidence of calorie intake.'"
+30,99.9,'Normal',"'Meal timing - Consistently eating at the same times every day is important for some people, especially those who take long-acting insulin or oral medications that decrease blood sugar levels (sulfonylureas or meglitinides). If a meal is skipped or delayed while on these regimens, you are at risk for developing low blood glucose.'"
+30,99.9,'Normal',"'If you use ""intensive"" insulin therapy (ie, if you give yourself multiple daily injections or use an insulin pump) or take certain other types of oral diabetes medications (eg, metformin), you may have more flexibility around meal timing. With these regimens, skipping or delaying a meal will not usually increase your risk of low blood sugar.'"
+30,99.9,'Normal',"'While foods that are high in fat (eg, pizza) are OK to eat occasionally, you will need to monitor your blood sugar levels more closely. High-fat, high-protein meals are broken down more slowly than low-fat, lower-protein meals. When using rapid-acting insulin before a meal, your blood sugar level may become low shortly after eating a high-fat meal and then rise hours later. If you eat meals that contain more protein or fat than usual, you may need to make meal-time insulin dose adjustments to manage this delayed rise in blood sugar.'"
+30,99.9,'High',"'Unhealthy eating is a contributor to obesity. Too much fat in your diet, not enough fiber and too many simple carbohydrates all contribute to the development of diabetes.'"
+30,99.9,'High','Consult with a healthcare professional'
+30,99.9,'High',"'Focus on eating a balanced diet that is rich in whole foods, including fruits, vegetables, whole grains, lean protein, and healthy fats.'"
+30,99.9,'High',"'Limit your intake of processed foods, sugary drinks, and high-fat foods.'"
+30,99.9,'High','Increase physical activity'
+30,99.9,'High','Keep track of your weight and blood sugar'
+30,99.9,'High','Manage stress by doing yoga or deep breathing exercises'

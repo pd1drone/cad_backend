@@ -1,0 +1,74 @@
+MinAge,MaxAge,Classification,Recommendations
+1,12,'Low','Severe or long-lasting hypoglycemia may result in seizures and serious brain injury.'
+1,12,'Low',"'To treat low blood glucose right away, we recommend eating or drink something with sugar, such as orange juice, milk, cake icing or hard candy'"
+1,12,'Low',"'They should follow with food with complex carbohydrates, fat, and protein, such as a peanut butter sandwich on whole-grain bread.'"
+1,12,'Normal','Keep track of your blood sugar levels to see what makes them go up or down.'
+1,12,'Normal',"'Eat at regular times, and don’t skip meals.'"
+1,12,'Normal',"'Choose foods lower in calories, saturated fat, trans fat, sugar, and salt.'"
+1,12,'Normal',"'Track your food, drink, and physical activity.'"
+1,12,'Normal','Drink water instead of juice or soda.'
+1,12,'Normal','Limit alcoholic drinks.'
+1,12,'Normal',"'For a sweet treat, choose fruit.'"
+1,12,'Normal',"'Control your food portions (for example, use the plate method: fill half your plate with non-starchy vegetables, a quarter with lean protein, and a quarter with a grain or starchy food).'"
+1,12,'High',"'Physical activity helps children control their weight, uses up sugar for energy, and makes the body use insulin more effectively.'"
+1,12,'High','Reduce portion sizes and not feel a need to finish everything on the plate'
+1,12,'High','Substitute a fruit or vegetable for a carbohydrate-rich food'
+1,12,'High',"'Replace high-calorie beverages, such as soft drinks or fruit juices, with water'"
+1,12,'High','Eat at home more frequently instead of eating at restaurants or getting food to carry out from restaurants'
+13,17,'Low','Eat all your meals and snacks on time and try not to skip any.'
+13,17,'Low','Take the right amount of insulin.'
+13,17,'Low',"'If you exercise longer or harder than usual, have an extra snack.'"
+13,17,'Low',"'Don\'t take a hot bath or shower right after an insulin shot.'"
+13,17,'Low','Stick to your diabetes management plan.'
+13,17,'Low','Check your blood sugar levels regularly'
+13,17,'Low',"'Eat, drink, or take something that contains sugar that can get into the blood quickly.'"
+13,17,'Low',"'We recommend having really sugary foods or drinks (like regular soda, orange juice, or cake frosting). These can help to raise your blood sugar level fast, which is what you need to do when it\'s low.'"
+13,17,'Low','Wait about 10 minutes to let the sugar work.'
+13,17,'Low','Recheck your blood sugar level with a glucose meter to see if blood sugar levels are back to normal.'
+13,17,'Normal','Exercise Regularly'
+13,17,'Normal','Manage your carb intake'
+13,17,'Normal','Eat more fiber'
+13,17,'Normal','Drink water and stay hydrated'
+13,17,'Normal','Implement portion control'
+13,17,'Normal','Monitor your blood sugar levels'
+13,17,'Normal','Get enough quality sleep'
+13,17,'Normal','Maintain moderate weight'
+13,17,'High','Try to eat your snacks and meals on time and not skip any'
+13,17,'High','Take the right amount of insulin'
+13,17,'High','Check your blood sugar levels regularly'
+13,17,'High','Stick to your diabetes management plan'
+13,17,'High','Drink 6-12oz of water every 20 minutes'
+13,17,'High','Insulin Therapy'
+13,17,'High',"'It\'s best to not eat too many sugary treats or fast foods. They\'re not really healthy food choices, and they can make them gain too much body fat and get cavities. They also might need to eat smaller amounts of food.'"
+13,17,'High',"'A balanced, healthy diet doesn\'t mean giving up your favorite foods or going on a starvation diet. But you\'ll probably have to limit junk food and sweets and eat smaller portions of foods if you\'re overweight.'"
+13,17,'High',"'Exercise is good for everyone, including people with diabetes. It\'s also an important part of diabetes treatment because exercise can improve your body\'s response to insulin, help you lose extra body fat, and get your heart and lungs in good shape.'"
+13,17,'High','Activities such as walking with your dog or riding a bike to playing team sports. Make it your goal to exercise every day to get the most benefits.'
+13,17,'High','You can talk to your diabetes health care team about making any necessary meal or medication adjustments when you exercise. They\'ll offer specific suggestions to help you get ready for exercise or join a sport and give you written instructions to help you respond to any diabetes problems that may happen during exercise'
+18,99,'Low','Have a sugary drink or snack'
+18,99,'Low',"'Be safe during exercise or physical activity. Physical activity can lower your blood glucose during the activity and for hours afterward. You may need to check your blood glucose before, during, and after physical activity and adjust your medicine or carbohydrate intake to prevent low blood glucose. For example, you might eat a snack before physical activity to prevent low blood glucose.'"
+18,99,'Low','Work with your doctor or health care team to prevent low blood glucose. Ask your team if any of your diabetes medicines can cause low blood glucose and how you can prevent and treat symptoms. Work with your doctor or health care team to adjust your diabetes management plan as needed.'
+18,99,'Low','Check blood glucose before and after meals.'
+18,99,'Low',"'Check blood glucose before and after exercise (or during, if it’s a long or intense session).'"
+18,99,'Low','Check blood glucose before bed.'
+18,99,'Low',"'After intense exercise, also check in the middle of the night.'"
+18,99,'Low',"'Check blood glucose more if things around you change such as, a new insulin routine, a different work schedule, an increase in physical activity, or travel across time zones.'"
+18,99,'Normal','Follow a minimally processed diet.'
+18,99,'Normal','Eat plenty of high-quality protein.'
+18,99,'Normal','Consume healthy fats.'
+18,99,'Normal','Balance your meals'
+18,99,'Normal','Drink plenty of water'
+18,99,'Normal','Exercise regularly'
+18,99,'Normal','Keep track of your blood sugar levels to see what makes them go up or down.'
+18,99,'Normal',"'Eat at regular times, and don’t skip meals.'"
+18,99,'Normal',"'Choose foods lower in calories, saturated fat, trans fat, sugar, and salt.'"
+18,99,'Normal',"'Track your food, drink, and physical activity.'"
+18,99,'Normal','Drink water instead of juice or soda.'
+18,99,'Normal','Limit alcoholic drinks.'
+18,99,'Normal',"'For a sweet treat, choose fruit.'"
+18,99,'Normal',"'Control your food portions (for example, use the plate method: fill half your plate with non-starchy vegetables, a quarter with lean protein, and a quarter with a grain or starchy food).'"
+18,99,'High','Change your eating habits; change the amount and types of foods you eat'
+18,99,'High','Consult a doctor if you have repeated abnormal blood sugar readings.'
+18,99,'High',"'Drink more water. Water helps remove excess sugar from your blood through urine, and it helps you avoid dehydration.'"
+18,99,'High',"'Working out can help lower your blood sugar. But under certain conditions, it can make blood sugar go even higher. Ask your doctor what kind of exercise is right for you.'"
+18,99,'High','Change your eating habits. You may need to meet with a dietitian to change the amount and types of foods you eat.'
+18,99,'High',"'Switch medications: Your doctor may change the amount, timing, or type of diabetes medications you take. Don’t make changes without talking to them first'"
